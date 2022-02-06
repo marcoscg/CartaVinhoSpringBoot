@@ -1,10 +1,10 @@
-package com.mardeveloper.vinho;
+package com.mardeveloper.wine;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CartaVinhoApplicationTests {
+class WineListApplicationTests {
 
 	@Test
 	void contextLoads() {
